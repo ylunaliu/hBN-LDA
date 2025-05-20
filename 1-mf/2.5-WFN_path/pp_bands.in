@@ -1,0 +1,5 @@
+&BANDS
+  prefix = 'bn'
+  outdir = './'
+  filband = 'bn_bands.dat'
+/

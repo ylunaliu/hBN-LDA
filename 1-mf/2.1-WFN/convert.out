@@ -1,0 +1,20 @@
+ Reading/writing header and G vectors from WFN_pseudo.h5 to WFN
+ Reading/writing wavefunctions G vectors from WFN_pseudo.h5 to WFN
+ Reading/writing wavefunctions from WFN_pseudo.h5 to WFN
+ 
+ Started conversion of wavefunctions with 109 k-points(s) at 15:15:45.
+ [ 15:15:45 |   0% ] k-points   1 / 109.
+ [ 15:15:46 |   2% ] k-points   3 / 109, remaining: 17 s.
+ [ 15:15:47 |   9% ] k-points  11 / 109, remaining: 16 s.
+ [ 15:15:49 |  19% ] k-points  22 / 109, remaining: 15 s.
+ [ 15:15:51 |  29% ] k-points  33 / 109, remaining: 13 s.
+ [ 15:15:52 |  39% ] k-points  44 / 109, remaining: 11 s.
+ [ 15:15:54 |  50% ] k-points  55 / 109, remaining: 9 s.
+ [ 15:15:56 |  60% ] k-points  66 / 109, remaining: 7 s.
+ [ 15:15:58 |  70% ] k-points  77 / 109, remaining: 6 s.
+ [ 15:16:00 |  80% ] k-points  88 / 109, remaining: 4 s.
+ [ 15:16:02 |  90% ] k-points  99 / 109, remaining: 2 s.
+ Finished conversion of wavefunctions at 15:16:04.
+ Elapsed time: 18 s.
+ 
+ Conversion from HDF5 to binary file complete!

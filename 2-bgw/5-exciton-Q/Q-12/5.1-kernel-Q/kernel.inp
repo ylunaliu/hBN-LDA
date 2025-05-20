@@ -1,0 +1,9 @@
+number_val_bands 2
+number_cond_bands 2
+
+no_symmetries_coarse_grid
+energy_loss
+screening_semiconductor
+cell_slab_truncation
+
+exciton_Q_shift 0 -0.000000 -0.041667 -0.000000

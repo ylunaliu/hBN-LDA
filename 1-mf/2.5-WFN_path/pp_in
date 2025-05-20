@@ -1,0 +1,7 @@
+&input_pw2bgw
+   prefix = 'bn'
+   real_or_complex = 2
+   wfng_flag = .true.
+   wfng_file = 'WFN_path'
+   wfng_kgrid = .true.
+/

@@ -1,0 +1,25 @@
+number_val_bands_fine 2
+number_val_bands_coarse 2
+
+number_cond_bands_fine 2
+number_cond_bands_coarse 2
+
+use_symmetries_fine_grid
+no_symmetries_shifted_grid
+use_symmetries_coarse_grid
+
+eqp_co_q_corrections
+eqp_co_corrections
+
+diagonalization
+screening_semiconductor
+cell_slab_truncation
+
+
+use_velocity
+energy_resolution 0.05
+gaussian_broadening
+
+write_eigenvectors 10
+
+exciton_Q_shift 0 -0.166667 -0.166667 -0.000000
