@@ -1,0 +1,393 @@
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:03 2025] [nid001648] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:03 2025] [nid001648] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:03 2025] [nid001648] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:03 2025] [nid001648] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid002433] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid002433] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid002433] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid002433] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001432] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001432] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001432] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001432] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid003788] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid003788] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid003788] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid003788] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001428] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001428] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001428] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001428] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001433] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001433] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001433] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001433] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid003785] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid003785] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid003785] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid003785] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001429] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001429] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001429] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+MPICH ERROR [Rank 0] [job id 38909826.0] [Thu May 22 17:00:04 2025] [nid001429] - Abort(1617295) (rank 0 in comm 0): Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+
+aborting job:
+Fatal error in PMPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(170).......: 
+MPID_Init(515)..............: 
+MPIDI_OFI_mpi_init_hook(580): 
+open_fabric(1502)...........: OFI fi_getinfo() failed (ofi_init.c:1502:open_fabric:No data available)
+srun: error: nid002433: tasks 20-23: Exited with exit code 255
+srun: Terminating StepId=38909826.0
+srun: error: nid001648: tasks 16-19: Exited with exit code 255
+srun: error: nid001428: tasks 0-3: Exited with exit code 255
+srun: error: nid001433: tasks 12-15: Exited with exit code 255
+srun: error: nid003785: tasks 24-27: Exited with exit code 255
+srun: error: nid001429: tasks 4-7: Exited with exit code 255
+srun: error: nid003788: tasks 28-31: Exited with exit code 255
+srun: error: nid001432: tasks 8-11: Exited with exit code 255
